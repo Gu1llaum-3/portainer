@@ -1,4 +1,7 @@
 {
+	"version": "1",
+	"templates": [
+		{
 			"categories": [
 				"Wiki"
 			],
@@ -49,4 +52,8 @@
 			},
 			"title": "Bookstack",
 			"type": 3
-		},
+		}
+]
+    }
+  ]
+}
